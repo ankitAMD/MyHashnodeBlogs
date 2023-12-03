@@ -1,4 +1,4 @@
-# MyHashnodeBlogs + DevOps Blog - This repository contains all the blog posts I have published on Hashnode.
+# HashnodeBlogs + DevOps Blogs - This repository contains all the blog posts I have published on Hashnode.
 MyHashnodeBlogs - Currently I am working/Learning on DevOps #90DaysofDevops 
 
  "The list of Blogs is as follows: 📚
@@ -9,3 +9,8 @@ MyHashnodeBlogs - Currently I am working/Learning on DevOps #90DaysofDevops
 4. Day3 - [DevOps: Linux Fundamentals](https://ankitgupta2.hashnode.dev/day3-devops) 🐧
 5. Day4 - [DevOps: Linux Advanced](https://ankitgupta2.hashnode.dev/day4-devops) 🚀
 6. Day5 - [DevOps: Linux Advanced and Shell Scripting](https://ankitgupta2.hashnode.dev/day-5-devops) 📜"
+
+
+Connect with Me: [LinkedIn 👥](https://www.linkedin.com/in/ankit-gupta2/) | [Medium 📝](https://medium.com/@ankitgupta_974) | [GitHub 💻](https://github.com/ankitAMD) | [Hashnode 🏞️](https://hashnode.com/@NinjaAnkit) | [Linktree](https://linktr.ee/ninjaankit) 🔗 | [☕ Buy Me a Coffee](https://www.buymeacoffee.com/ankitgupta1) 🔔 🔔 🔔 🔔.
+
+ 
