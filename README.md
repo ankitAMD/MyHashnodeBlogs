@@ -1,4 +1,4 @@
-# MyHashnodeBlogs - This repository contains all the blog posts I have published on Hashnode.
+# MyHashnodeBlogs + DevOps Blog - This repository contains all the blog posts I have published on Hashnode.
 MyHashnodeBlogs - Currently I am working/Learning on DevOps #90DaysofDevops 
 
  "The list of Blogs is as follows: 📚
