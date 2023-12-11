@@ -9,7 +9,7 @@ MyHashnodeBlogs - Currently I am working/Learning on DevOps #90DaysofDevops
 4.  Day3   - [DevOps: Linux Fundamentals](https://ankitgupta2.hashnode.dev/day3-devops) 🐧
 5.  Day4   - [DevOps: Linux Advanced](https://ankitgupta2.hashnode.dev/day4-devops) 🚀
 6.  Day5   - [DevOps: Linux Advanced and Shell Scripting](https://ankitgupta2.hashnode.dev/day-5-devops) 📜"
-7.  Day6   - DevOps: Shell Scripting Advanced 
+7.  Day6   - [DevOps: Shell Scripting Advanced ](https://ankitgupta2.hashnode.dev/day6-devops)🤔
 8.  Day7   - DevOps:
 9.  Day8   - Devops:
 10. Day9   - Devops:
